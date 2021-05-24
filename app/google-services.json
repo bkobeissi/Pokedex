@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "504585092401",
+    "project_id": "pokedexkobeissi",
+    "storage_bucket": "pokedexkobeissi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504585092401:android:98ba33c39b291e74068410",
+        "android_client_info": {
+          "package_name": "com.example.esiea3a"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504585092401-03hkh31j8iakbdadrbdckqcqv8l2l6e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9w_J1VMKtWIi77xgzgDij8uV_dVdx1Gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504585092401-03hkh31j8iakbdadrbdckqcqv8l2l6e9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
