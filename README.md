@@ -21,7 +21,7 @@ Télécharger la branche master de ce projet
    - Design Patterns
    - MVC/MVP/MVVM
    - Principes (SOLID,KISS,DRY)
-   - Firebase (Base de donnée en temps réel)
+   - Firebase (Base de donnée en temps réel) disponible à cette adresse : https://console.firebase.google.com/u/0/project/pokedexkobeissi/settings/general/android:com.example.esiea3a
 
 ### Screen ###
 
