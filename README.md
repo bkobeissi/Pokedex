@@ -5,7 +5,7 @@ Elle permet lors de la séléction d'un Pokémon d'afficher les détails sur un 
 
 # Prérequis
 Avoir installé l'IDE : Android Studio
-Télécharger la branche develop de ce projet
+Télécharger la branche master de ce projet
 
 # Consignes
   Consignes de base :
