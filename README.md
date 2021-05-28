@@ -1,4 +1,6 @@
-# Pokedex
+## Pokedex
+
+# Présentation de l'application
 Cette application permet de visualiser un Pokedex avec une liste de Pokémons. 
 Cette liste est chargée à partir de l'API Rest PokeApi disponible à l'adresse suivante : "https://pokeapi.co/api/v2/"
 Elle permet lors de la séléction d'un Pokémon d'afficher les détails sur un élément plus particulièrement le nom et un lien pour plus d'informations complémentaires.
